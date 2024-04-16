@@ -1,0 +1,22 @@
+.timer{
+    height: 300px;
+    max-width: 300px;
+    margin:auto;
+}
+
+button{
+    background-color: transparent;
+    color:rgba(255,255,255,0.8);
+    border:0;
+    width: 100px;
+    margin-top: 25px;
+}
+
+button.with-text{
+    background-color:rgba(255,255,255,0.2);
+    font-size: 1rem;
+    border-radius: 10%;
+    font-weight: bold;
+    width: auto;
+    padding: 10px 20px;
+}
